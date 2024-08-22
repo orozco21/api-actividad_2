@@ -5,7 +5,7 @@ Breve descripción de la API:
 La API "actividad2.py" es una aplicación web que devuelve una lista de nombres de personas en formato JSON. La API utiliza el framework Flask de Python y se ejecuta en un servidor local.
 
 Instrucciones para ejecutar la API:
-Clona el repositorio de GitHub utilizando el comando git clone https://github.com/tu-usuario/api-nombres.git
+Clona el repositorio de GitHub utilizando el comando git clone https://github.com/orozco21/api-actividad_2.git
 Abre una terminal y navega al directorio del proyecto utilizando el comando cd actividad2
 Instala las dependencias necesarias utilizando el comando pip install -r requirements.txt
 Ejecuta la API utilizando el comando python app.py
